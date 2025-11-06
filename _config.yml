@@ -120,6 +120,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      robots: noindex, nofollow
 
 #category_archive:
   #type: liquid
