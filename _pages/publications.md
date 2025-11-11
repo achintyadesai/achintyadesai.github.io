@@ -4,6 +4,9 @@ title: "Publications"
 ---
 <ul>
 <li><h6>SEE Here: <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=achintya+desai&oq=ac" style="color:red;">scholar</a> WEBSITE UNDER CONSTRUCTION</h6>
+<li><h6>Stateful Behavior Inference and Runtime Enforcement for Vehicle Network Security</h6>
+<pre> A Desai, R Dai, Y Chen, K Ho, A Kee, S Bulatovic, Md Shafiuzzaman, K Bai, I Jeong, D Siu, T Yavuz, T Bultan </pre>
+<pre> Published at 3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25), 2025 <a href="https://www.usenix.org/system/files/vehiclesec25-desai.pdf" style="color:red;">pdf</a></pre></li>
 <li><h6>NBSAP: Noisy Biometric Secure Authentication Protocol</h6></li>
 <pre> A Desai, P Manvi, A Namboodiri, K Srinathan</pre>
   <pre> Accepted at <br/> International Joint Conference on Biometrics (IJCB) 2022</pre>
